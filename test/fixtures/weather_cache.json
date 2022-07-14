@@ -1,0 +1,42 @@
+{
+    "location": {
+      "name": "Hanoi",
+      "region": "",
+      "country": "Vietnam",
+      "lat": 21.03,
+      "lon": 105.85,
+      "tz_id": "Asia/Ho_Chi_Minh",
+      "localtime_epoch": 1649584618,
+      "localtime": "2022-04-10 16:56"
+    },
+    "current": {
+      "last_updated_epoch": 1649583900,
+      "last_updated": "2022-04-10 16:45",
+      "temp_c": 27.0,
+      "temp_f": 80.6,
+      "is_day": 1,
+      "condition": {
+        "text": "Partly cloudy",
+        "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+        "code": 1003
+      },
+      "wind_mph": 10.5,
+      "wind_kph": 16.9,
+      "wind_degree": 80,
+      "wind_dir": "E",
+      "pressure_mb": 1008.0,
+      "pressure_in": 29.77,
+      "precip_mm": 0.0,
+      "precip_in": 0.0,
+      "humidity": 62,
+      "cloud": 75,
+      "feelslike_c": 26.7,
+      "feelslike_f": 80.0,
+      "vis_km": 10.0,
+      "vis_miles": 6.0,
+      "uv": 8.0,
+      "gust_mph": 11.2,
+      "gust_kph": 18.0
+    }
+  }
+  
